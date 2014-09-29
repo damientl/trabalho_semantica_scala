@@ -1,0 +1,10 @@
+Nessa disciplina estamos interessados somente em ´arvores de sintaxe abstrata. A produ¸c˜ao de
+´arvores de sintaxe abstrata, a partir de uma sequˆencia de caracteres de entrada que constituem
+um programa, ´e o principal objetivo de um analisador l´exico e de um analisador sint´atico (o
+l´exico produzindo tokens para que o analisador sint´atico produza a ´arvore abstrata). Sobre
+essa ´arvore de sintaxe abstrata ´e feita ainda a verifica¸c˜ao de tipos (an´alise semˆantica).
+Ap´os essa etapa de an´alise sint´atica e semˆantica, que constituem o que se chama de front end
+de um compliador, inicia uma etapa de s´intese (back end). Nessa etapa s˜ao feitas tranforma¸c˜oes
+sobre a ´arvore abstrata visando otimiza¸c˜oes. A gera¸c˜ao de c´odigo ´e feita tendo como entrada
+a ´arvore de sintaxe abstrata otimizada. ´ Arvores de sintaxe abstrata s˜ao, portanto, a interface
+entre o front end e o back end de um compilador.
